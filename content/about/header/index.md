@@ -3,8 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, my name is Leonie Rettig. 
 ---
-
+Thank you for visiting my website.
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+
+**I'm a PhD student, lecturer & researcher at the University of Mannheim and MZES (Mannheim Centre for European Social Research). Previously, I was working as a research assistant at the collaborative Collaborative Research Center 884 - “Political Economy of Reforms”. My research interest focus mostly on political attitudes and behaviour, democratic representation and inequality, social identity and politics, as well as climate policy.**
+
