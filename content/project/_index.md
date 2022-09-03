@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: A Research Portfolio To Grow
+#description: "Give your projects a place to live online."
+#author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -10,7 +10,7 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: A Sidebar 
   description: |
     Projects can be anything!
     Check out the _index.md file in the /project folder 
