@@ -12,4 +12,4 @@ categories:
 layout: single
 ---
 
-{{ < embed-pdf url="C:/Users/lrettig/Dokumente/GitHub/personalwebsite/content/cv/cv.pdf" > }}
+{{ < embed-pdf url="./cv/cv.pdf" > }}
