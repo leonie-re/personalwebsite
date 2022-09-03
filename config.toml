@@ -28,13 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "University of Mannheim"
-  orgname2 = "MZES"
-  orgLocal = "Mannheim"
+  orgName = "Leonie Rettig"
+  #orgLocal = "Mannheim"
   description = ""
   favicon = "/img/pagelines.svg"
   logo = "/img/pagelines.svg"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["project", "talk", "cv"]
   navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -114,17 +113,22 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "Research Portfolio"
-  #  url = "/project/"
+    url = "/project/"
     weight = 2
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+  #[[menu.header]]
+  #  name = "Talks"
+  #  title = "Talks"
   #  url = "/talk/"
-    weight = 4
+  #  weight = 4
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
-    url = "/teaching/"
+    url = "/talk/"
+    weight = 3
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
     weight = 3
     
   # Configure footer  
