@@ -129,8 +129,8 @@ enableEmoji = true
     name = "CV"
     title = "CV"
     url = "/cv/"
-    weight = 3
-    
+    weight = 4
+
   # Configure footer  
   [[menu.footer]]
     name = "License"
