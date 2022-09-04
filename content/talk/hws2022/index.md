@@ -1,9 +1,9 @@
 ---
-title: "What shapes political attitudes and behaviour, ideology or identity?"
+title: "Identity and Politics"
 subtitle: "Introduction to Political Sociology"
-excerpt: "This course introduced students to different concepts of ideology and identity, as well as how it interplays with political attitudes and behaviour."
-date: 01-09-2021
-date_end: "01-12-2021"
+excerpt: "This course introduces students to different facets of identity in politics. It moreover covers how group identities are developed in the first place, and discusses what role identity plays for democracy."
+date: 01-09-2022
+date_end: "01-12-2022"
 show_post_time: false
 event: "BA course, University of Mannheim"
 #event_url: https://global.rstudio.com
@@ -13,15 +13,16 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- past
+- current
 #links:
 #- icon: door-open
 #  icon_pack: fas
 #  name: website
 #  url: https://bakeoff.netlify.com/
-#- icon: github
-#  icon_pack: fab
-#  name: code
-#  url: https://github.com/apreshill/bakeoff
+- icon: book
+  icon_pack: fab
+  name: syllabus
+  url: ./Syllabus.html
 ---
+
 
