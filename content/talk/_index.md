@@ -1,8 +1,7 @@
 ---
-title: Talks that Last
+title: Teaching
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  This is a list for teaching experience with a time, date, and place.
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
