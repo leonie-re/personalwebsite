@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Teaching
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  This is a list for teaching experience with a time, date, and place.
+author: "Leonie Rettig"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -27,7 +27,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Leonie Rettig"
   show_author_byline: true
   show_post_date: true
   show_post_time: true

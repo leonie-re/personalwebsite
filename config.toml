@@ -123,7 +123,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
-    #url = "/talk/"
+    url = "/talk/"
     weight = 3
   [[menu.header]]
     name = "CV"

@@ -9,13 +9,15 @@ show_audio_link: false
 list_label: "Interests" # bookmarks, elsewhere, etc.
 list:
 - name: Political attitudes & behaviour
-  #url: https://en.wikipedia.org/wiki/Paris
+  url: 
 - name: Representation
-  #url: https://en.wikipedia.org/wiki/Pastry
+  url: 
 - name: Inequality
-  #url: https://en.wikipedia.org/wiki/People
+  url: 
 - name: Identity and Politics
+  url:
 - name: Climate policy
+  url:
 ---
 
 ** index doesn't contain a body, just front matter above.
