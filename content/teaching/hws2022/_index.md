@@ -2,7 +2,7 @@
 title: "Identity and Politics"
 subtitle: "Introduction to Political Sociology"
 excerpt: "This course introduces students to different facets of identity in politics. It moreover covers how group identities are developed in the first place, and discusses what role identity plays for democracy."
-date:2022-09-01
+date: 2022-09-01
 date_end: "2022-12-01"
 show_post_time: false
 event: "BA course, University of Mannheim"

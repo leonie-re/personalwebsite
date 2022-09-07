@@ -25,3 +25,4 @@ categories:
 #  url: https://github.com/apreshill/bakeoff
 ---
 
+This class was an introduction seminar for B.A. students on a political sociology topic. 

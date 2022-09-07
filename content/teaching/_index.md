@@ -22,7 +22,7 @@ sidebar:
     to edit this content. 
   author: "The R Markdown Team @RStudio"
   text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
+  text_link_url: /talk/_index.xml
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
