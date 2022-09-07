@@ -120,11 +120,11 @@ enableEmoji = true
   #  title = "Talks"
   #  url = "/talk/"
   #  weight = 4
-  #[[menu.header]]
-  #  name = "Teaching"
-  #  title = "Teaching"
-  #  url = "/talk/"
-  #  weight = 3
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 3
   [[menu.header]]
     name = "CV"
     title = "CV"
