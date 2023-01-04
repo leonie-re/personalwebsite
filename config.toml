@@ -110,26 +110,26 @@ enableEmoji = true
   #  title = "Blog"
   #  url = "/blog/"
   #  weight = 5
-  #[[menu.header]]
-    #name = "Research"
-    #title = "Research Portfolio"
-    #url = "/project/"
-    #weight = 2
-  #[[menu.header]]
-  #  name = "Talks"
-  #  title = "Talks"
-  #  url = "/talk/"
-  #  weight = 4
+  [[menu.header]]
+    name = "Puplications"
+    title = "Research Portfolio"
+    url = "/publications/"
+    weight = 2
+  [[menu.header]]
+    name = "Work in Progress"
+    title = "Work in Progress"
+    url = "/project/"
+    weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/talk/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/cv.pdf"
-    weight = 4
+    weight = 5
 
   # Configure footer  
   [[menu.footer]]
