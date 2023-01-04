@@ -110,11 +110,11 @@ enableEmoji = true
   #  title = "Blog"
   #  url = "/blog/"
   #  weight = 5
-  [[menu.header]]
-    name = "Puplications"
-    title = "Research Portfolio"
-    url = "/publications/"
-    weight = 2
+  #[[menu.header]]
+  #  name = "Puplications"
+  #  title = "Research Portfolio"
+  #  url = "/publications/"
+  #  weight = 2
   [[menu.header]]
     name = "Work in Progress"
     title = "Work in Progress"
