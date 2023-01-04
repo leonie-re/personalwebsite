@@ -1,7 +1,7 @@
 ---
-title: "Data Analysis"
+title: "Data Analysis Workshop"
 subtitle: "Introduction to Stata"
-excerpt: "This course introduces data analysis and how to perform them in Stata."
+excerpt: "This course is an introduction to data analysis in political science using the Stata. The course aims to demonstrate how to generate statistical results from political science data and how to interpret those results appropriately. The course accompanies a Data Analysis lecture where students learn basic statistical methods from social sciences."
 date: 2021-04-01
 date_end: "2021-06-01"
 show_post_time: false
