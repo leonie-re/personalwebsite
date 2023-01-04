@@ -1,12 +1,13 @@
 ---
 title: Teaching
 description: |
-  This is a list for teaching experience with a time, date, and place.
-author: "Leonie Rettig"
+  This is a list for teaching experience including a short description of content. For some courses teaching material is also provided.
+#author: "Leonie Rettig"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 show_post_time: true
+
 # for listing page layout
 layout: list # list, list-sidebar
 
@@ -16,8 +17,7 @@ sidebar:
   description: |
     This is a list for your talks, workshops, or 
     other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
-    
+
     Check out the _index.md file in the /talk folder 
     to edit this content. 
   author: "The R Markdown Team @RStudio"
@@ -34,7 +34,7 @@ cascade:
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
-    text_link_label: View recent cources
+    text_link_label: View recent sources
     text_link_url: /teaching/
     show_sidebar_adunit: false # show ad container
 ---

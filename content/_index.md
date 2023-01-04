@@ -2,7 +2,7 @@
 title: "Leonie Rettig"
 subtitle: "PhD student & researcher in Political Science"
 description: ""
-date: 2019-02-18T12:27:33-06:00
+date: ""
 images:
   - img/me.jpg
 image_left: true
