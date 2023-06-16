@@ -13,7 +13,8 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- current
+- upcoming
+- proseminar
 #links:
 #- icon: door-open
 #  icon_pack: fas
