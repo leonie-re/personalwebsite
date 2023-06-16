@@ -9,6 +9,8 @@ draft: false
 layout: single
 categories:
 - "voting behaviour"
+- "group cues"
+- "descriptive representation"
 ---
 
 Do citizens consider candidates’ social group characteristics when casting their vote? The lack of candidate
