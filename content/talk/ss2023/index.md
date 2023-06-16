@@ -13,15 +13,16 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- upcoming
-#links:
-#- icon: door-open
-#  icon_pack: fas
-#  name: website
-#  url: https://bakeoff.netlify.com/
-#- icon: github
-#  icon_pack: fab
-#  name: code
-#  url: https://github.com/apreshill/bakeoff
+- past
+- workshop
+- data analysis
+links:
+- icon: book
+  icon_pack: fas
+  name: syllabus
+  url: ./talk/ss23/00_Syllabus.pdf
 ---
 
+In dieser praxisorientierten Übung wird die selbstständige Anwendung statistischer Verfahren erlernt, um Wählerverhalten und politische Einstellungen zu untersuchen. Dabei setzen wir uns kritisch mit aktueller Forschungsliteratur auseinander. Basierend auf den Prinzipien offener und nachvollziehbarer Wissenschaft lernen die Studierenden die statistischen Analysen dieser Literatur zu verstehen, zu interpretieren,
+zu hinterfragen und durch eigene Replikationen zu überprüfen. Im Zentrum steht die selbstständige Durchführung von empirischen Analysen mit Hilfe des Statistikprogramms Stata. In den ersten Sitzungen werden zunächst grundlegende Stata-Befehle zur Datenmodifikation und -analyse, sowie die korrekte Interpretation von Regressionsergebnissen wiederholt. Anschließend werfen wir einen neuen Blick auf altbekannte Konzepte wie p-Werte und Hypothesentests um der Frage nachzugehen, was wir von statistischen Analysen lernen können. Im Mittelpunkt der fortgeschrittenen Sitzungen steht Auseinandersetzung mit und Replikation von Forschungsliteratur zur Wählereinstellungen und -verhalten. In der Seminararbeit
+replizieren die Studierenden eigenständig einen Forschungsaufsatz mit aktuellen Daten, begründen ihre Analyseentscheidungen und interpretieren die empirischen Befunde. Alle Studierenden haben die Möglichkeit Hausaufgaben und Seminararbeit mit R, anstelle von Stata zu bearbeiten. Material wird hierzu zur Verfügung gestellt, der Kurs konzentriert sich dabei jedoch auf die Umsetzung von Datenanalyse in Stata.

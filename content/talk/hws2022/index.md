@@ -15,16 +15,12 @@ layout: single
 categories:
 - current
 links:
-#- icon: door-open
-#  icon_pack: fas
-#  name: website
-#  url: https://bakeoff.netlify.com/
 - icon: book
   icon_pack: fas
   name: syllabus
-
   url: ./talk/hws2022/Syllabus.pdf
 ---
 
 Political science discusses the influence of identities on politics since the late 1960s. Most recent (public) debates on identity in politics surrounds identity politics, and it's polarizing mechanisms. Identities help people to categorize themselves and others, for this reason, identity will always play a role in politics and should be studied by political and social scientists. This seminar will explore identity and politics from a bottom-up and top-down perspective. The bottom-up perspective looks at individuals (political) identity development, how it shapes political beliefs and attitudes, and to what extent this influences political elites. Second, we explore identity and politics from top-down mainly focusing on how political actors and institutions use, influence, or even provide a political identity. Classical theoretical literature, mostly from socio-psychology, and recent developments in political attitudes and behavioural research will be covered throughout the semester. Contemporary political issues, such as climate change, will be addressed to apply theories and critically compare cases.
 
+This class was an introduction seminar for B.A. students on a political sociology topic. 

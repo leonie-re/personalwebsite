@@ -14,15 +14,14 @@ draft: false
 layout: single
 categories:
 - past
-#links:
-#- icon: door-open
-#  icon_pack: fas
-#  name: website
-#  url: https://bakeoff.netlify.com/
-#- icon: github
-#  icon_pack: fab
-#  name: code
-#  url: https://github.com/apreshill/bakeoff
+- proseminar
+links:
+- icon: book
+  icon_pack: fas
+  name: syllabus
+  url: ./talk/hws2021/Syllabus.html
 ---
+People's ideology has played an important role since the first democratic movements of the 19th century. Political ideologies, but also belief systems, influence how people perceive their political environment and act politically. Recently, the focus seems to be shifting towards political identities. Identity politics in particular is increasingly becoming an issue of public and scientific debate. This seminar will explore political ideology and identity, their differences and similarities, as well as their origins and consequences. First, the seminar will focus on questions such as what are political belief systems, and is ideology different from them? We will then turn to conceptualisations and theoretical frameworks on political identity and its shapes. Contemporary political issues such as climate change, migration, or specific identity politics will eventually be considered to critically examine the interplay of ideology and identity and their consequences. Classical theoretical literature will be covered throughout the semester, but recent developments in political attitudes and behavioural research will also be addressed.
 
 This class was an introduction seminar for B.A. students on a political sociology topic. 
+
