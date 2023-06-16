@@ -1,7 +1,7 @@
 ---
 title: "Facing trade-offs"
 subtitle: "The variability of public support for climate change policies"
-excerpt: "What factors are of relevance in changing voting behaviour when it comes to climate change?"
+excerpt: "How do people react when climate policies have negative implications for other valued goals?"
 date: 2023-06-16
 author: "Leonie Rettig, Lea Gärtner & Harald Schoen"
 draft: false
