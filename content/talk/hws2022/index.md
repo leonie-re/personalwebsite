@@ -22,7 +22,7 @@ links:
 - icon: book
   icon_pack: fab
   name: syllabus
-  url: ./Syllabus.html
+  url: ./Syllabus.pdf
 ---
-
+{{ < embed-html url="./talk/hws2022/Syllabus.pdf" > }}
 
