@@ -1,5 +1,5 @@
 ---
-title: "Political conscioussness of young people"
+title: "Political consciousness of young people"
 subtitle: "Perceived Representation shaping political behaviour of Generation Y and Z"
 excerpt: "How does young generations perceived representation influence their political behaviour?"
 date: 2023-06-16
