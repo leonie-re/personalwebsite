@@ -15,7 +15,7 @@ layout: single
 categories:
 - upcoming
 - proseminar
-#links:
+links:
 #- icon: door-open
 #  icon_pack: fas
 #  name: website
