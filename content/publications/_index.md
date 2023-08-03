@@ -1,12 +1,13 @@
 ---
-title: A Research Portfolio To Grow
-#description: "Give your projects a place to live online."
+title: Publications
+subtitle: A Research Portfolio To Grow
+description: "You can find all my somehow published work here. I try my to make my research as ascessible as possible. However, please be aware that due to some restrictions by journals or data regulations, you won't be able to find all publications and replication data here. In case you cannot access one of my publications or have questions don't hesitate to contact me. Maybe we can find a solution. I hope you enjoy my work!"
 #author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
