@@ -18,7 +18,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: material
-  url: https://lukasisermann.netlify.app/_book/index.html
+  url: https://lukasisermann.com/_book/index.html
 #- icon: github
 #  icon_pack: fab
 #  name: code
