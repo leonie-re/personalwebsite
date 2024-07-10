@@ -1,7 +1,9 @@
 ---
 title: Publications
 subtitle: A Research Portfolio To Grow
-description: "You can find all my somehow published work here. I try my to make my research as ascessible as possible. However, please be aware that due to some restrictions by journals or data regulations, you won't be able to find all publications and replication data here. In case you cannot access one of my publications or have questions don't hesitate to contact me. Maybe we can find a solution. I hope you enjoy my work!"
+description: "You can find all my somehow published work here. 
+
+I try to make my research as accessible as possible. However, please be aware that due to some restrictions by journals or data regulations, you won't be able to find all publications and replication data here.In case you cannot access one of my publications or have questions don't hesitate to contact me. Maybe we can find a solution. I hope you enjoy my work!"
 #author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true

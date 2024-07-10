@@ -1,6 +1,6 @@
 ---
 title: A Research Portfolio To Grow
-description: "This is all work in progess. Some at a seedling stage, some are already rooting or even blooming. If you are interested in some of my work in progess in more detail, don't hesitate to contact me about it."
+description: "This is all work in progress. Some at a seedling stage, some are already rooting or even blooming. If you are interested in some of my work in progress in more detail, don't hesitate to contact me about it."
 #author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true

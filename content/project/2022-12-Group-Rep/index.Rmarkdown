@@ -1,7 +1,7 @@
 ---
-title: "Just like me "
-subtitle: "Evidence on group-cue based voting from Germany"
-excerpt: "Do citizens consider candidates' social group characteristics when casting their vote?"
+title: "Just like me"
+subtitle: "Evidence on descriptive attributes as voting heuristics from Germany"
+excerpt: "Do citizens consider candidates’ social group characteristics when casting their vote in real world scenarios? "
 date: 2023-06-14
 author: "Leonie Rettig & Lukas Isermann"
 draft: false
@@ -15,15 +15,7 @@ categories:
 
 # Abstract
 
-Do citizens consider candidates’ social group characteristics when casting their vote? The lack of candidate
-diversity and descriptive under-representation of groups such as females, young or working class people in
-parliaments is a common issue in public and scholarly debate. However, existing studies on whether this
-makes people more likely to vote for candidates that increase their own group’s representation in parliament
-yield mixed results. Examining voters usage of group cues in their candidate vote for the German parliament
-election in 2021, we provide new evidence about this mechanism. We find voters to be more likely to vote for
-district candidates closer to their own age, candidates’ gender however does not influence voting decisions.
-Interestingly, the results concerning occupational in-group voting presents a persistent puzzle that requires
-further investigation.
+The lack of candidate diversity and descriptive under-representation of groups such as females or younger people in parliaments is a common issue in public and scholarly debate. However, existing studies on whether this makes people more likely to vote for candidates that increase their own group’s representation in parliament yield mixed results. Using conditional logit models on combined survey and candidate characteristic data on the German federal election in 2021, we investigate whether voters considered gender and age similarities with district candidates. This election, marked by media attention to under-represented groups in parliament and social conflicts related to gender and age, provided a pertinent context to explore the significance of group-based considerations in vote choices. Despite the politicization of gender and age issues, our analysis reveals no impact on voting decisions in the wider electorate. However, we find support for substantial differences when looking at vote choice across positions towards gender equality and party vote. The only group where we do find voting along gender lines are men who reject gender equality. With respect to voting along age lines, we find that SPD voters are likely to vote candidates closer in age. Our findings underscore the limited influence of descriptive group features in real-world electoral settings, emphasizing the need for further exploration of descriptive representation effects beyond experimental conditions. 
 
 
 

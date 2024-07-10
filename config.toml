@@ -111,7 +111,7 @@ enableEmoji = true
   #  url = "/blog/"
   #  weight = 5
   [[menu.header]]
-    name = "Puplications"
+    name = "Publications"
     title = "Publicatons"
     url = "/publications/"
     weight = 2
