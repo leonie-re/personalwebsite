@@ -82,13 +82,13 @@ enableEmoji = true
       #icon_pack = "fab"
       #url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
   [[params.social]]
-      icon      = "calendar-check" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://calendly.com/leonierettig/office-hours"
-  [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/leonie_rettig"
+  [[params.social]]
+      icon      = "calendar" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://calendly.com/leonierettig/office-hours"
   #[[params.social]]
   #    icon      = "rss" # icon name without the 'fa-'
   #    icon_pack = "fas"

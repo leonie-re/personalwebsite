@@ -20,7 +20,7 @@ links:
 - icon: book
   icon_pack: fas
   name: syllabus
-  url: ./talk/ss2023/Syllabus.pdf
+  url: ./talk/ss2024/Syllabus.pdf
 ---
 
 In dieser praxisorientierten Übung wird die selbstständige Anwendung statistischer Verfahren erlernt, um Wählerverhalten und politische Einstellungen zu untersuchen. Dabei setzen wir uns kritisch mit aktueller Forschungsliteratur auseinander. Basierend auf den Prinzipien offener und nachvollziehbarer Wissenschaft lernen die Studierenden die statistischen Analysen dieser Literatur zu verstehen, zu interpretieren,
