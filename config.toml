@@ -89,10 +89,10 @@ enableEmoji = true
       icon      = "calendar-check" # icon name without the 'fa-'
       icon_pack = "far"
       url       = "https://calendly.com/leonierettig/office-hours"
-  #[[params.social]]
-  #    icon      = "rss" # icon name without the 'fa-'
-  #    icon_pack = "fas"
-  #    url       = "/blog/index.xml"
+  [[params.social]]
+      icon      = "mail" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:leonie.rettig@uni-mannheim.de"
 
 [taxonomies]
   category = "categories"
