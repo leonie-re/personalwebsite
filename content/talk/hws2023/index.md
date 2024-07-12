@@ -22,8 +22,8 @@ links:
 #  url: https://bakeoff.netlify.com/
 - icon: book
   icon_pack: fas
-  name: syllabus
-  url: ./talk/hws2023/Syllabus.pdf
+  name: Syllabus
+  url: ./talk/hws2024/Syllabus.pdf
 ---
 
 In this seminar, we will delve into how our sense of self shapes our political beliefs and actions, and how identity plays a crucial role in shaping our societies in today's world. Since the late 1960s, political science has recognized the profound influence of identities on politics, making it an essential subject for both political and social scientists to study. We will explore this complex relationship by covering classical theoretical literature from socio-psychology and political science on identity and politics. Firstly, we will establish a shared foundation for our journey through identity politics by examining the concept of identity. Throughout the rest of the semester, we will explore recent research on contemporary political issues such as climate change through interactive discussions and thought-provoking exercises. By applying theories and critically analyzing cases, we will gain a deeper understanding of how our social identities shape the political landscape.

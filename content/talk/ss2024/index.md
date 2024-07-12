@@ -2,8 +2,8 @@
 title: "Data Analysis Workshop"
 subtitle: "Hinter den Kulissen der BTW’21 - Erforschung von Wähler*innen und politischen Einstellungen"
 excerpt: "In this workshop, students learn how to independently apply statistical methods to study voter behaviour and political attitudes in the Bundestagswahl 2021. In doing so, we critically engage with current research literature. Based on the principles of open and comprehensible science, students learn to understand, interpret, question and test the statistical analyses of this literature through their own replications. Application of statistical methods is taught using Stata (R material will be provided as well). Teaching language is German."
-date: 2023-02-15
-date_end: "2023-05-31"
+date: 2024-02-15
+date_end: "2024-05-31"
 show_post_time: false
 event: "BA course, University of Mannheim"
 #event_url: https://global.rstudio.com
@@ -20,7 +20,7 @@ links:
 - icon: book
   icon_pack: fas
   name: syllabus
-  url: ./talk/ss2023/00_Syllabus.pdf
+  url: ./talk/ss2023/Syllabus.pdf
 ---
 
 In dieser praxisorientierten Übung wird die selbstständige Anwendung statistischer Verfahren erlernt, um Wählerverhalten und politische Einstellungen zu untersuchen. Dabei setzen wir uns kritisch mit aktueller Forschungsliteratur auseinander. Basierend auf den Prinzipien offener und nachvollziehbarer Wissenschaft lernen die Studierenden die statistischen Analysen dieser Literatur zu verstehen, zu interpretieren,
