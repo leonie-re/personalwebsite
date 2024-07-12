@@ -13,7 +13,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- upcoming
+- past
 - proseminar
 links:
 #- icon: door-open

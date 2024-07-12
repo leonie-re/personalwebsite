@@ -14,14 +14,12 @@ draft: false
 layout: single
 categories:
 - past
+- workshop
 links:
 - icon: door-open
   icon_pack: fas
   name: material
   url: https://lukasisermann.com/_book/index.html
-#- icon: github
-#  icon_pack: fab
-#  name: code
-#  url: https://github.com/apreshill/bakeoff
 ---
 
+This course was constructed as a 3-day beginner course for the GESIS Training Series. The course aims to demonstrate how to manipulate data, as well as generate, present and visualise statistical results. The course is designed for researchers who have little or no experience with Stata. The course will be taught in English. 
