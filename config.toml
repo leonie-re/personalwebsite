@@ -82,7 +82,11 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://osf.io/cqz2u/"
   [[params.social]]
-      icon      = "linked-in" # icon name without the 'fa-'
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://orcid.org/0000-0003-1073-6022"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/leonie-rettig-9050bb175/"
   [[params.social]]
