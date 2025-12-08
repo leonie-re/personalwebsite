@@ -94,7 +94,7 @@ enableEmoji = true
       icon_pack = "far"
       url       = "https://calendly.com/leonierettig/office-hours"
   [[params.social]]
-      icon      = "mail" # icon name without the 'fa-'
+      icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "mailto:leonie.rettig@uni-mannheim.de"
 
