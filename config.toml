@@ -77,14 +77,14 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/leonie-re"
- # [[params.social]]
-      #icon      = "facebook-square" # icon name without the 'fa-'
-      #icon_pack = "fab"
-      #url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "osf" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://osf.io/cqz2u/"
+  [[params.social]]
+      icon      = "linked-in" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/leonie_rettig"
+      url       = "https://www.linkedin.com/in/leonie-rettig-9050bb175/"
   [[params.social]]
       icon      = "calendar" # icon name without the 'fa-'
       icon_pack = "far"
