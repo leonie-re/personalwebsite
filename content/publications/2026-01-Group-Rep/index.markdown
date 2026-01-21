@@ -1,27 +1,37 @@
 ---
-title: "Just like me "
-subtitle: "Evidence on group-cue based voting from Germany"
-excerpt: "Do citizens consider candidates' social group characteristics when casting their vote?"
-date: 2023-06-14
+title: "Just like me?"
+subtitle: "Testing descriptive attributes as voting heuristics"
+excerpt: "Do citizens consider candidates’ social group characteristics when casting their vote in real world scenarios?"
+date: 2026-01-19
 author: "Leonie Rettig & Lukas Isermann"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- "voting behaviour"
+- "voting choice"
 - "group cues"
 - "descriptive representation"
+- "social groups"
+- "candidate vote"
+- "descriptive features"
+
+links:
+- icon: link
+  icon_pack: fas
+  name: Article 
+  url: 
+- icon: book
+  icon_pack: fas
+  name: Article (PDF)
+  url: ./publications/2026-01-Grup-Rep/print.pdf
+- icon: database
+  icon_pack: fas
+  name: Replication Material
+  url: https://osf.io/b7mjf/overview?view_only=8e67a3a2cfad4ed3a00778140cba5b73
 ---
 
-Do citizens consider candidates’ social group characteristics when casting their vote? The lack of candidate
-diversity and descriptive under-representation of groups such as females, young or working class people in
-parliaments is a common issue in public and scholarly debate. However, existing studies on whether this
-makes people more likely to vote for candidates that increase their own group’s representation in parliament
-yield mixed results. Examining voters usage of group cues in their candidate vote for the German parliament
-election in 2021, we provide new evidence about this mechanism. We find voters to be more likely to vote for
-district candidates closer to their own age, candidates’ gender however does not influence voting decisions.
-Interestingly, the results concerning occupational in-group voting presents a persistent puzzle that requires
-further investigation.
+# Abstract
 
+The lack of candidate diversity and the descriptive under-representation of groups such as women and young people in parliaments is a recurring concern in both public and academic debates. While prior studies have examined whether voters prefer candidates who share their gender or age, findings remain mixed and are often based on experimental designs. Using conditional logit models and combined survey-candidate data from the 2021 German Federal Election, we assess whether voters considered gender and age similarities with district candidates when casting their votes. This election, shaped by heightened media focus on under-represented groups and public discourse around gender and age, offers a strong case for exploring group-based voting behavior. Despite this context, our results show no general effect of gender or age similarity on vote choice. Gender cues do not influence candidate preferences, even among women or left-leaning voters. While age similarity has no overall impact, younger voters on the left are more likely to support younger candidates, whereas their right-leaning counterparts favour older ones. These findings suggest that identity-based cues matter only for specific subgroups under certain conditions. Our study highlights the limits of affinity voting in information-rich settings compared to the stronger effects often found in experimental research.
 
 

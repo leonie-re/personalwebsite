@@ -1,8 +1,8 @@
 ---
 title: " Is it simply a question of age?"
-subtitle: "Disentangling generational and age effects on perceived representation"
+subtitle: "Disentangling generational and age effects on feelings of representation"
 excerpt: "How represented do generations and age cohorts feel?"
-date: 2023-06-16
+date: 2026-01-16
 author: "Leonie Rettig"
 draft: false
 # layout options: single, single-sidebar
