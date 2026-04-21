@@ -1,6 +1,6 @@
 ---
 title: "Leonie Rettig"
-subtitle: "PhD candidate & researcher in Political Science"
+subtitle: "Doctoral researcher in Political Science and Data Enthusiast"
 description: ""
 date: ""
 images:
