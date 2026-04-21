@@ -7,5 +7,9 @@ headline: |
 ---
 <!-- this is a subheadline -->
 
-I'm a PhD candidate, lecturer & researcher at the University of Mannheim and MZES (Mannheim Centre for European Social Research). I studied at the Johannes Gutenberg-University of Mainz for my B.A. degree and completed my M.A at University of Mannheim. During my studies, I worked as a research assistant at the Collaborative Research Center 884 - “Political Economy of Reforms”. My research interest focus mostly on political attitudes and behaviour, democratic representation and inequality, social identity and politics, as well as climate policy. 
+I am a Doctoral Researcher with a passion for uncovering stories hidden within complex data. I am currently finalizing my dissertation at the University of Mannheim and look forward to bringing my expertise in advanced statistical modeling and data analytics to new professional environments.
+
+My journey as a researcher at the University of Mannheim and the MZES has shaped me into an expert in data analytics and social sciences. I thrive when working with complex datasets, particularly in the fields of political attitudes, inequality, and climate policy.
+
+Having moved on from my roles as a lecturer and academic researcher earlier this year, I am now focused on applying my technical toolkit to new, fast-paced environments. Let’s connect if you’re looking for a researcher who understands both the numbers and the people behind them!
 
